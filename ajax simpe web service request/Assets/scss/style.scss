@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+html{
+    background: -webkit-linear-gradient(90deg, rgb(167, 179, 191), rgb(96, 99, 102));
+    background: linear-gradient(90deg, rgb(167, 179, 191), rgb(96, 99, 102));
+    font-family: 'Grenze Gotisch', cursive;
+}
+.main{
+    margin-top: 5rem;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    blockquote{
+        color:white;
+        font-size: 20px;
+        margin-bottom: 2rem;
+        background-color: rgb(96, 99, 102);
+        border-left: 2px solid green;
+        max-width: 80vh;
+    }
+    p{
+        color:white;
+    }
+}
+img{
+    border-radius: 50%;
+    height:30vh;
+    width: 30vh;
+}
