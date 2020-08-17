@@ -1,7 +1,12 @@
-### Mes projets Personnels 
+### Mes travaux réalisé pendant la Colline chez Becode. 
 
-1. Mon blog [ici]("http://blog.dualvex.be")
-2. Mon projet pour mon badge HTML .
+1. Request Ajax (solo)
+2. CookieClicker (projet de grp)
+3. Algo javascript (solo)
+4. Jasmine (solo)
+5. Parcours Javascript (solo)
+6. Pew Pew (canvas Js solo)
+7. Data Visualisation (Chart.js , js ) (arrivera apres vérification )
 
 
 ## Qui suis je :
